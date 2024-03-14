@@ -54,7 +54,7 @@
 
 - When started Main Window will pop up. Through its filebar we can access all the necessary windows.
 
-   ![Main Window](https://github.com/Raihan-123/Restaurant-Management-System/blob/master/assets/bast/main_W.png)
+   ![Main Window](https://github.com/Raihan-123/Restaurant-Management-System/blob/master/assets/bast/main_w.png)
 
 - Filebar let's us see the current state of the application. At first as there is no database file we can only open up the "Configure Facility/Menu" window to store configurations.
 
